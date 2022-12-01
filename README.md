@@ -39,13 +39,13 @@ Procedure:
 ............
 
 ## program
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/blob/main/8.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/blob/main/8a.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/blob/main/8b.png?raw=true)
 
 ## output : 
 
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/blob/main/8c.png?raw=true)
 
 ## Results: 
 A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
